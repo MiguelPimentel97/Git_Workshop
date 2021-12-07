@@ -1,7 +1,7 @@
 
 # Git Workshop
 
-
+This repo belongs to Miguel Pimentel
 
 ![Image of Project](images/cheat_sheet.png)
 
